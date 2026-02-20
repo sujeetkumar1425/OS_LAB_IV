@@ -1,0 +1,4 @@
+copy con a.java
+
+exit
+cd
